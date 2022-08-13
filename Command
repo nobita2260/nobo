@@ -1,0 +1,20 @@
+#NOBITA
+#FACEBOOK.NOBITA2260
+#WHATAPPS:+01813233621
+GITHUB:NOBITA2260
+
+apt update
+
+apt upgrade
+
+pkg install python
+
+pkg install git
+
+git clone https://github.com/nobita2260/nobo.git
+
+cd nobo
+
+ls
+
+python nobo.py
